@@ -28,8 +28,9 @@
 
 <!-- ✨  <I>[RESUME](https://)</I>     -->
 <!-- 🌱  <I>[PORTFOLIO](https://)</I>       -->
-✏️  <I>[BLOG](https://dailybetter.github.io/)</I>    
+### ✏️  <I>[BLOG](https://dailybetter.github.io/)</I>    
 
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailybetter&show_icons=true&theme=radical)
 
