@@ -25,5 +25,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
+<hr/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailybetter&show_icons=true&theme=radical)
