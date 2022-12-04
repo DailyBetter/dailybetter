@@ -8,7 +8,6 @@
 ![redux-toolkit](https://img.shields.io/badge/-Redux%20ToolKit-764abc?logo=redux&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailybetter&show_icons=true&theme=radical)
 
 
 * **SSAFY 8기** <I>2022.06.01 ~</I> 
@@ -19,4 +18,11 @@
 
 <!-- ✨  <I>[RESUME](https://)</I>     -->
 <!-- 🌱  <I>[PORTFOLIO](https://)</I>       -->
-✏️  <I>[BLOG](https://dailybetter.github.io/)</I>    
+<!-- ✏️  <I>[BLOG](https://dailybetter.github.io/)</I>     -->
+<a href="https://dailybetter.github.io">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailybetter&show_icons=true&theme=radical)
