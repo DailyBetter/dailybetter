@@ -13,18 +13,12 @@
 * **SSAFY 8기** <I>2022.06.01 ~</I> 
 
 
-
+<br/>
 
 
 <!-- ✨  <I>[RESUME](https://)</I>     -->
 <!-- 🌱  <I>[PORTFOLIO](https://)</I>       -->
-<!-- ✏️  <I>[BLOG](https://dailybetter.github.io/)</I>     -->
-<a href="https://dailybetter.github.io">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+✏️  <I>[BLOG](https://dailybetter.github.io/)</I>    
 
-<hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailybetter&show_icons=true&theme=radical)
