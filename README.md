@@ -17,4 +17,4 @@
 
 <!-- ✨  <I>[RESUME](https://)</I>     -->
 <!-- 🌱  <I>[PORTFOLIO](https://)</I>       -->
-✏️  <I>[TISTORY](https://dailybetter.github.io/)</I>    
+✏️  <I>[BLOG](https://dailybetter.github.io/)</I>    
