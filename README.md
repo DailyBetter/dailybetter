@@ -1,4 +1,3 @@
-# hyunWooPark
 ## I'm growing up to be a *Front-end Developer*🌱
 
 ### 🧑🏻‍💻 Tech
