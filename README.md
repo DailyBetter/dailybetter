@@ -25,7 +25,7 @@
 <br/>
 
 
-<!-- ✨  <I>[RESUME](https://)</I>     -->
+✨  <I>[RESUME](https://fabulous-bed-afc.notion.site/601b28463e824b8f95942677423b643b)</I>    
 <!-- 🌱  <I>[PORTFOLIO](https://)</I>       -->
 ### ✏️  <I>[BLOG](https://dailybetter.github.io/)</I>    
 
