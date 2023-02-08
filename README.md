@@ -6,7 +6,7 @@
 
 |Language|Web Front-End|
 |---|---------|
-|![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![b](https://img.shields.io/badge/typscript-306998?style=flat-square&logo=typscript&logoColor=black)|![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black)|
+|![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![b](https://img.shields.io/badge/TypeScript-306998?style=flat-square&logo=typscript&logoColor=black)|![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black)|
 <!--
 ![](https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white)
 ![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
