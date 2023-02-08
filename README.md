@@ -4,10 +4,9 @@
 
 
 
-|Language|Web Front-End|Web Back-End|
-|---|---------|---|
-|![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![b](https://img.shields.io/badge/Python3-306998?style=flat-square&logo=python&logoColor=white)|![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black) ![b](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)|![a](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![b](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
+|Language|Web Front-End|
+|---|---------|
+|![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![b](https://img.shields.io/badge/typscript-306998?style=flat-square&logo=typscript&logoColor=black)|![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black)|
 <!--
 ![](https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white)
 ![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
