@@ -24,9 +24,9 @@
 <br/>
 
 
-### 🌱  <I>[PORTFOLIO](https://hyunwoo-park.vercel.app/){:target="_blank"}</I>      
-### ✨  <I>[RESUME](https://fabulous-bed-afc.notion.site/601b28463e824b8f95942677423b643b){:target="_blank"}</I>    
-### ✏️  <I>[BLOG](https://dailybetter.github.io/){:target="_blank"}</I>    
+### 🌱  <I>[PORTFOLIO](https://hyunwoo-park.vercel.app/)</I>      
+### ✨  <I>[RESUME](https://fabulous-bed-afc.notion.site/601b28463e824b8f95942677423b643b)</I>    
+### ✏️  <I>[BLOG](https://dailybetter.github.io/)</I>    
 
 
 
