@@ -42,4 +42,4 @@
   
 
 ### 📫  How to reach me
-[![dailybetter.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dailybetter.dev@gmail.com)](mailto:dailybetter.dev@gmail.com) : dailybetter.dev@gmail.com 
+[![dailybetter.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dailybetter.dev@gmail.com)](mailto:rth634@naver.com) : rth634@naver.com 
