@@ -33,13 +33,3 @@
 <br/>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailybetter&show_icons=true&theme=radical) -->
-
-
-
-
-
-
-  
-
-### 📫  How to reach me
-[![dailybetter.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dailybetter.dev@gmail.com)](mailto:rth634@naver.com) : rth634@naver.com 
