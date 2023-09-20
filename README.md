@@ -1,6 +1,6 @@
-## I'm growing up to be a *Front-end Developer*🌱
-
-### 🧑🏻‍💻 Tech
+## ~~I'm growing up to be a *Front-end Developer*🌱~~
+## I am no longer a developer
+### ~~🧑🏻‍💻 Tech~~
 
 
 
@@ -24,9 +24,9 @@
 <br/>
 
 
-### 🌱  <I>[PORTFOLIO](https://hyunwoo-park.vercel.app/)</I>      
-### ✨  <I>[RESUME](https://fabulous-bed-afc.notion.site/601b28463e824b8f95942677423b643b)</I>    
-### ✏️  <I>[BLOG](https://dailybetter.github.io/)</I>    
+### 🌱 ~~<I>[PORTFOLIO](https://hyunwoo-park.vercel.app/)</I>~~
+### ✨  ~~<I>[RESUME]([https://fabulous-bed-afc.notion.site/601b28463e824b8f95942677423b643b](https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/4KX7/image/9oG6VP6kXND5Iw335FFnA3j8xDM))</I>    
+### ✏️  ~~<I>[BLOG](https://dailybetter.github.io/)</I>~~
 
 
 
