@@ -1,5 +1,5 @@
 ## ~~I'm growing up to be a *Front-end Developer*🌱~~
-## I am no longer a developer
+
 ### ~~🧑🏻‍💻 Tech~~
 
 
